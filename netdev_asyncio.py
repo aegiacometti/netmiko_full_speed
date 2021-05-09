@@ -1,5 +1,5 @@
 # This example show how to execute a command concurrently in the devices
-# Using asyncio
+# Using asyncio and netdev
 
 # Change import settings
 import time
